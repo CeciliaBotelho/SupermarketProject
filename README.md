@@ -54,6 +54,6 @@ Se você tem uma ideia ou encontrou um bug, por favor, sinta-se à vontade para 
 
 ## Entre em Contato 📬
 
-- Nome - Cecilia Botelho 
+- Nome - Cecilia Botelho.
 - E-mail - cescbotelho@gmail.com
 
