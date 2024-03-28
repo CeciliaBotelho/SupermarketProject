@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Supermercado 🛒
 
-Bem-vindo(a) ao repositório do Sistema de Gerenciamento de Supermercado! Este projeto é uma aplicação em Java que utiliza banco de dados para gerenciar as operações diárias de um supermercado. 🏪
+Bem-vindo(a) ao repositório do Sistema de Gerenciamento de Supermercado! Este projeto é uma aplicação em Java que utiliza banco de dados para gerenciar as operações diárias de um supermercado 🏪
 
 ## Tecnologias Utilizadas 🛠️
 
